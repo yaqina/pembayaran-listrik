@@ -1,0 +1,15 @@
+
+@page{
+	size:landscape;
+	margin-top: 130px;
+
+
+}
+@media.print {
+    body {
+        background-color: #000;
+
+    }
+
+
+}
